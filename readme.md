@@ -40,7 +40,7 @@ Remaking from Cirrus Logic Databook  "CL-GD542X_Technical_Reference_Manual_Jan19
 - [![Gerber file 002(not tested)](https://github.com/matt1187/542x_ISA/blob/main/Gerber/542xISA-002.zip)]
 
 # driver & ROM 
-- [![Cirrus Logic ROM generic, from VLB donor card](https://github.com/matt1187/542x_ISA/blob/main/rom/cirrus 5428.zip)]
+- [![Cirrus Logic ROM generic for all GD542x, from VLB donor card](ROM/cirrus 5428.zip)]
 
 
 
