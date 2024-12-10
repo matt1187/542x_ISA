@@ -3,9 +3,9 @@ Remaking from Cirrus Logic Databook  "CL-GD542X_Technical_Reference_Manual_Jan19
 
 
 
-![pictures](https://github.com/matt1187/542xISA/blob/main/pictures/542xISA-1.jpg)
+![pictures](https://github.com/matt1187/542x_ISA/blob/main/pictures/542xISA-1.jpg)
 
-# PCB Revision History  (attention, two PCB type )
+# PCB Revision History 
 - 542xISA-000 initial draft
 - 542xISA-001 few minor bug fixing (IOCS16/MEMCS16 swap, added output filter)
 - 542xISA-002 change of XTAL Footprint to HC-49  (not tested, only change of layout is  XTAL-footprint)
@@ -33,14 +33,14 @@ Remaking from Cirrus Logic Databook  "CL-GD542X_Technical_Reference_Manual_Jan19
 
 # Bill of material
 
-- [![csv-file 001 ](https://github.com/matt1187/542xISA/blob/main/gerber/542xISA-001.csv)]
-- [![csv-file 002(not tested)](https://github.com/matt1187/542xISA/blob/main/gerber/542xISA-002.csv)]
+- [![csv-file 001 ](https://github.com/matt1187/542x_ISA/blob/main/gerber/542xISA-001.csv)]
+- [![csv-file 002(not tested)](https://github.com/matt1187/542x_ISA/blob/main/gerber/542xISA-002.csv)]
 - [Config strap (R55, R57, R59, R61, R63, R69, R73) Place all resistor except R69
-- [![Gerber file 001](https://github.com/matt1187/542xISA/blob/main/gerber/542xISA-001.zip)]
-- [![Gerber file 002(not tested)](https://github.com/matt1187/542xISA/blob/main/gerber/542xISA-002.zip)]
+- [![Gerber file 001](https://github.com/matt1187/542x_ISA/blob/main/Gerber/542xISA-001.zip]]
+- [![Gerber file 002(not tested)](https://github.com/matt1187/542x_ISA/blob/main/gerber/542xISA-002.zip)]
 
 # driver & ROM 
-- [![Cirrus Logic ROM generic, from VLB donor card](https://github.com/matt1187/542xISA/blob/main/rom/cirrus 5428.zip)]
+- [![Cirrus Logic ROM generic, from VLB donor card](https://github.com/matt1187/542x_ISA/blob/main/rom/cirrus 5428.zip)]
 
 
 
