@@ -18,6 +18,7 @@ Remaking from Cirrus Logic Databook  "CL-GD542X_Technical_Reference_Manual_Jan19
   
 # Issues 
 - some 542x chip has vertical noise/stripe on TFT. (It is not pcb issuses)
+- ROM from  cirrus logic video card as donor is not usable (hi/lo byte is seperated to difference address space, like address line "A0 and A14" is swapped)
 
 
 # notes
