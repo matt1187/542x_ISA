@@ -31,7 +31,7 @@ Remaking from Cirrus Logic Databook  "CL-GD542X_Technical_Reference_Manual_Jan19
 
 # Bill of material
 
-- [![csv-file 001 ](https://github.com/matt1187/542x_ISA/blob/main/Gerber/542xISA_001.csv)]
+- [![csv-file 001 ](https://github.com/matt1187/542x_ISA/blob/main/Gerber/542xISA-001.csv)]
 - [![csv-file 002(not tested)](https://github.com/matt1187/542x_ISA/blob/main/Gerber/542xISA-002.csv)]
 - [Config strap (R55, R57, R59, R61, R63, R69, R73) Place all resistor except R69
 - [![Gerber file 001](https://github.com/matt1187/542x_ISA/blob/main/Gerber/542xISA-001.zip]]
