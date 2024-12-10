@@ -1,9 +1,6 @@
 # Project  Cirrus Logic 542x ISA video card
 Remaking from Cirrus Logic Databook  "CL-GD542X_Technical_Reference_Manual_Jan1994"
-
-
-
-![pictures](https://github.com/matt1187/542x_ISA/blob/main/pictures/542xISA-1.jpg)
+![grafik](https://github.com/user-attachments/assets/78f533ff-fe82-43f0-a3d6-b032cc464d83)
 
 # PCB Revision History 
 - 542xISA-000 initial draft
