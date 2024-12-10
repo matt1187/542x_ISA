@@ -15,7 +15,7 @@ JP0 ,1,"GND","Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm","a part of 
 JP1 ,1,"IRQ9","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","Mouser","649-78511-202HLF"
 L3 L2 L1 ,3,"10µH","Inductor_SMD:L_0805_2012Metric","Mouser","963-CBC2012T100M "
 L4 L5 L6 ,3,"68nH","Inductor_SMD:L_1206_3216Metric","Mouser","815-AISC-1206-68NJ-T "
-P1 ,1,"VGA-PORT","Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm_wide","Mouser","
+P1 ,1,"VGA-PORT","Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm_wide","Mouser","L77HDE15SD1CH4R or L77HDE15SD1CH4RHNVGA"
 R1 R2 R3 R12 ,4,"150","Resistor_SMD:R_0805_2012Metric","Mouser","71-CRCW0805150RFKEAC "
 R11 R16 R17 R55 R57 R69 R18 R59 R61 R63 R73 ,11,"10k","Resistor_SMD:R_0805_2012Metric","Mouser","71-CRCW080510K0FKEAC "
 R13 ,1,"20","Resistor_SMD:R_0805_2012Metric","Mouser","71-CRCW080520R0FKEAC"
