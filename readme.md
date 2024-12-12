@@ -24,7 +24,8 @@ Remaking from Cirrus Logic Databook  "CL-GD542X_Technical_Reference_Manual_Jan19
 # notes
 - GD5420/22/24 support only 1 MB DRAM
 - U11 & U12  is first 1 MB , U13/14 is seconds MB (except 5420, only U12 and U14 )
-- all component with  followed ID is config strap (R55, R57, R59, R61, R63, R69, R73)
+- all component with  followed ID is config strap (R55, R57, R59, R61, R63, R69, R73) place all except R69
+- R15 don't place, if you using interal XTAL oscillator (Y1 , C39,C40)
 - SPI-EEPROM is optional.
 
  
