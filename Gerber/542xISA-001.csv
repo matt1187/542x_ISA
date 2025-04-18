@@ -33,4 +33,4 @@ U4 ,1,"27C256","Package_DIP:DIP-28_W15.24mm_Socket","Varios","27C256 DIP-28"
 U5 ,1,"74LS541","Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm","Mouser","595-SN74LS541DWR"
 X1 ,1,"Bus_ISA_8bit","Connector_PCBEdge:BUS_AT","jlcpcb","a part of PCB ;-)"
 Y1 ,1,"14.318M","Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm","Mouser","520-ECS143-20-23A-EN"
-SlotBraket,1,"Type 9","Keystone 9001","Mouser","534-9200-1";
+SlotBraket,1,"Type 9","Keystone 9200-1","Mouser","534-9200-1";
